@@ -1,0 +1,5 @@
+#include<stdio.h>
+voib main()
+{
+printf("hai ithub,thid my first program");
+}
